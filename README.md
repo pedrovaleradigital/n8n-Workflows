@@ -2,7 +2,7 @@
 Este repositorio contiene workflows de n8n para automatización e integración de IA.
 Autor: Pedro Valera
 
-- 1. Sistema Generador de Propuestas AI N8N de $2,500.json
+- Sistema Generador de Propuestas AI N8N de $2,500.json
 - Accionando tus Próximos Pasos de Reunión usando Transcripciones e IA.json
 - Acelera Banners de Redes Sociales Con BannerBear.com.json
 - Actualizar banner Twitter usando petición HTTP.json
